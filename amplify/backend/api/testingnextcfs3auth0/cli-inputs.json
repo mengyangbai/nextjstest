@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "testingnextcfs3auth0",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/interstellarx/Documents/GitHub/TestingNextCloudFrontS3Auth0-03.31.2023/amplify/backend/api/testingnextcfs3auth0/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authtestingnextcfs3auth08c7ab357"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "OPENID_CONNECT",
+        "openIDProviderName": "Auth0",
+        "openIDIssuerURL": "https://dev-s3nxuksktmikqane.us.auth0.com/",
+        "openIDClientID": "1Z62YsQ96jBa9H0wc7wW5w9H1Aouk8PJ",
+        "openIDAuthTTL": "2592000000",
+        "openIDIatTTL": "3600000"
+      }
+    ]
+  }
+}

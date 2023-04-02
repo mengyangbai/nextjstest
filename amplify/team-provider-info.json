@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testingnextcfs3auth0-dev-03516-authRole",
+      "UnauthRoleArn": "arn:aws:iam::289971349213:role/amplify-testingnextcfs3auth0-dev-03516-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::289971349213:role/amplify-testingnextcfs3auth0-dev-03516-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testingnextcfs3auth0-dev-03516-deployment",
+      "UnauthRoleName": "amplify-testingnextcfs3auth0-dev-03516-unauthRole",
+      "StackName": "amplify-testingnextcfs3auth0-dev-03516",
+      "StackId": "arn:aws:cloudformation:us-east-1:289971349213:stack/amplify-testingnextcfs3auth0-dev-03516/9af6d830-d046-11ed-a967-12981ec870d5",
+      "AmplifyAppId": "d3a4ibncpu2wwd"
+    },
+    "categories": {
+      "auth": {
+        "testingnextcfs3auth08c7ab357": {}
+      }
+    }
+  }
+}
